@@ -1,10 +1,15 @@
-# frankenstein
+# Introdução a *Markdown language*
+Eu acho bem mais fácil do que o editor do Oráculo.
 
-testing and stuff
-
-**NEW CHANGE**
-
-removing a new change I can pull
+## O editor do Oráculo
+Depois de [fazer o login](https://oraculo.rdstation.com.br/) você poderá editar qualquer página clicando em **Editar página**.
 
 ---
-> just added some empty lines between stuff
+
+## Adicionar uma página nova
+
+![Print do painel admin](painel.png)
+
+> “Documentar é legal!”
+> 
+> *- Caique*
