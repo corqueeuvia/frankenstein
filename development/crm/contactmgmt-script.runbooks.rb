@@ -1,3 +1,3 @@
 def nothing
-  puts "Hello, void!"
+  puts "Goodbye, void!"
 end
