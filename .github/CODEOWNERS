@@ -1,3 +1,2 @@
-development/rdsm/                         @corqueeuvia
-
-development/crm/                          @colorisaw
+development/rdsm/automation*                         @corqueeuvia
+development/rdsm/leads*                              @colorisaw
