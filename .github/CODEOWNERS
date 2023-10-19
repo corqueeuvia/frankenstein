@@ -1,0 +1,7 @@
+production/crm/automation*                @corqueeuvia
+
+production/crm/contactmgmt*               @colorisaw
+
+development/crm/automation*               @corqueeuvia
+
+development/crm/contactmgmt*              @colorisaw
