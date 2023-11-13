@@ -1,7 +1,3 @@
-this file now has stuff
-    lbalablabalba
-    lots of shit
-    blabalbalabla
-and only the stuff its meant to have
 
-sarah possou aqui
+this file now has stuff
+and only the stuff its meant to have
