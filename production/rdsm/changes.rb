@@ -1,4 +1,8 @@
 
 def day-one
-    puts "1"
+    puts "new"
+end
+
+def new
+    puts "new"
 end
