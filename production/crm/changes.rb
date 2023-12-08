@@ -1,7 +1,7 @@
 def changes
-    puts "new"
+    puts "old"
 end
 
 def dia-passou
-    puts "3"
+    puts "old"
   end
