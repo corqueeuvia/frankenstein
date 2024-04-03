@@ -1,15 +1,9 @@
-# Introdução a *Markdown language*
-Eu acho bem mais fácil do que o editor do Oráculo.
+# WTF?
 
-## O editor do Oráculo
-Depois de [fazer o login](https://oraculo.rdstation.com.br/) você poderá editar qualquer página clicando em **Editar página**.
+This repo is meant to be a sandbox for all and every beginner in coding and GIT. Feel free to mess things up here, this is a safe space.
 
----
+# Help
 
-## Adicionar uma página nova
+Whenever you need help, contact me by opening an issue in this very repo :wink:
 
-![Print do painel admin](painel.png)
-
-> “Documentar é legal!”
-> 
-> *- Caique*
+## Happy coding! :computer: 
