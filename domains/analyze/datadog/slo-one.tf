@@ -12,13 +12,13 @@ resource "datadog_service_level_objective" "foo" {
   thresholds {
     timeframe = "7d"
     target    = 99.9
-    warning   = 99.99
+    warning   = 99.88
   }
 
   thresholds {
     timeframe = "30d"
     target    = 99.9
-    warning   = 99.99
+    warning   = 99.88
   }
 
   timeframe         = "30d"
