@@ -1,2 +1,2 @@
-domains/*/datadog/slo*           @colorisaw
-domains/*/datadog/monitor*       @corqueeuvia
+domains/*/datadog/(slo*|monitor*)           @colorisaw
+development/                                @corqueeuvia
