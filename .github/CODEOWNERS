@@ -1,2 +1,1 @@
-development/rdsm/automation*                         @corqueeuvia
-development/rdsm/leads*                              @colorisaw
+domains/*/datadog/(slo.*|monitor.*)                  @colorisaw
