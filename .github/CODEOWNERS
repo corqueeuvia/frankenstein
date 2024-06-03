@@ -1,1 +1,1 @@
-domains/*/datadog/(slo.*|monitor.*)                  @colorisaw
+domains/*/datadog/slo*           @colorisaw
