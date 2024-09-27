@@ -9,3 +9,9 @@ This is the **real** boss.
 ### JK
 
 Bullshit. Change it all you want :wink: 
+
+## Blabla
+colorisaw was addded
+
+## rules
+removed at least 1 required
